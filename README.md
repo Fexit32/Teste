@@ -1,4 +1,5 @@
-<!doctyper html>
+ <!doctyper html>
 < html>
 < head>
 < body>< como estou na programação >
+< body>
